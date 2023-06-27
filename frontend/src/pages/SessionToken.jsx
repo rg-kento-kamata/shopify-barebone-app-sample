@@ -30,7 +30,7 @@ function SessionToken() {
   };
 
   return (
-    <Page title="Getting started with session token authentication">
+    <Page title="testGetting started with session token authentication">
       <Card title="Step 1: Get a session token" sectioned={true}>
         <Layout>
           <Layout.Section>
